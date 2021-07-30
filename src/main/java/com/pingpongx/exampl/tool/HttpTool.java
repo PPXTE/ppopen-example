@@ -1,4 +1,4 @@
-package com.pingpongx.exampl;
+package com.pingpongx.exampl.tool;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.pingpongx.exampl.sign;
+package com.pingpongx.exampl.tool.sign;
 
 /**
  * 字符串工具类。

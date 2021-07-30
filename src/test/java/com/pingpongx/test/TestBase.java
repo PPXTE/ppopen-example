@@ -1,7 +1,7 @@
 package com.pingpongx.test;
 
 import com.alibaba.fastjson.JSON;
-import com.pingpongx.exampl.HttpTool;
+import com.pingpongx.exampl.tool.HttpTool;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.UnsupportedEncodingException;

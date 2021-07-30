@@ -1,9 +1,7 @@
 package com.pingpongx.test;
 
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
-import com.pingpongx.exampl.sign.PPSignature;
-import java.io.File;
+import com.pingpongx.exampl.tool.sign.PPSignature;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
